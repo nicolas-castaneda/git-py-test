@@ -14,9 +14,5 @@ Se puede añadir los cambios al repositorio remoto con "git push [nombre-remoto]
 
 Si se realiza un cambio al repositorio remoto y se quiere hacer un push desde una máquina propia. Primero, realiza un git pull para poder traer los cambios hechos en el repositorio remoto y combinarlo con tus cambios. Luego hacer un 'git add .' para añadir los cambios del repo remoto a tu repo local. Finalmente, realizar el commit y push de manera normal.
 
-<<<<<<< HEAD
-
 Mensaje final
-=======
 Prueba final
->>>>>>> 210dab71a2b7dc00716f785f9be50c0d33dd3f53
